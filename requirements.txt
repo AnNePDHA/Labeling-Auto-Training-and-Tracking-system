@@ -1,0 +1,17 @@
+flask
+numpy
+requests
+python-dotenv
+opencv-python
+flask_cors
+ultralytics
+dill
+
+# Azure services
+azureml-sdk
+azure-identity
+azure-ai-ml
+azure-servicebus
+
+# Tracking 
+tensorflow
